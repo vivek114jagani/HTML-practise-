@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+    height: fit-content;
+    width: fit-content;
+    font-size: 20px;
+}
+
+li{
+    padding: 20px 20px 20px 20px;
+}
