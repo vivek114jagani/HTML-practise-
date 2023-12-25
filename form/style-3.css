@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body{
+    height: 100vh;
+    display: flex;
+}
+
+.welcome{
+    background-color: teal;
+    width: 40vw;
+    padding: 20px;
+}
+
+.welcome h2{
+    padding: 350px 20px 20px;
+    font-size: 30px;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+}
+
+.welcome p{
+    padding: 20px 20px;
+    font-size: 20px;
+    font-weight: 100;
+    color: white;
+}
+
+.welcome .sign-in-button{
+    padding-top: 30px;
+}
+
+.welcome .sign-in-button button{
+    width: 50%;
+    height: 65px;
+    background-color: transparent;
+    border: 1px solid whitesmoke;
+    border-radius: 50px;
+    color: whitesmoke;
+    font-size: 15px;
+    font-weight: 100;
+}
+
+.signup{
+    width: 60vw;
+    align-self: center;
+}
